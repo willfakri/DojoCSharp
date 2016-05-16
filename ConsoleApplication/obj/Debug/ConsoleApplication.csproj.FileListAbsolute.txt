@@ -1,0 +1,6 @@
+E:\Estudo\CSharp\DojoCSharp\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+E:\Estudo\CSharp\DojoCSharp\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+E:\Estudo\CSharp\DojoCSharp\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+E:\Estudo\CSharp\DojoCSharp\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+E:\Estudo\CSharp\DojoCSharp\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+E:\Estudo\CSharp\DojoCSharp\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache

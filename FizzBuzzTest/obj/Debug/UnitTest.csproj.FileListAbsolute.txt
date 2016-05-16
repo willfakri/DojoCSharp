@@ -1,0 +1,8 @@
+E:\Estudo\CSharp\DojoCSharp\FizzBuzzTest\bin\Debug\UnitTest.dll
+E:\Estudo\CSharp\DojoCSharp\FizzBuzzTest\bin\Debug\UnitTest.pdb
+E:\Estudo\CSharp\DojoCSharp\FizzBuzzTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Estudo\CSharp\DojoCSharp\FizzBuzzTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+E:\Estudo\CSharp\DojoCSharp\FizzBuzzTest\obj\Debug\UnitTest.dll
+E:\Estudo\CSharp\DojoCSharp\FizzBuzzTest\obj\Debug\UnitTest.pdb
+E:\Estudo\CSharp\DojoCSharp\FizzBuzzTest\bin\Debug\Business.exe
+E:\Estudo\CSharp\DojoCSharp\FizzBuzzTest\bin\Debug\Business.pdb

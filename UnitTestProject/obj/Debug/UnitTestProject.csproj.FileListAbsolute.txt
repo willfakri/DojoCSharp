@@ -1,0 +1,7 @@
+E:\Estudo\CSharp\DojoCSharp\UnitTestProject\bin\Debug\UnitTestProject.dll
+E:\Estudo\CSharp\DojoCSharp\UnitTestProject\bin\Debug\UnitTestProject.pdb
+E:\Estudo\CSharp\DojoCSharp\UnitTestProject\obj\Debug\UnitTestProject.dll
+E:\Estudo\CSharp\DojoCSharp\UnitTestProject\obj\Debug\UnitTestProject.pdb
+E:\Estudo\CSharp\DojoCSharp\UnitTestProject\bin\Debug\ConsoleApplication.exe
+E:\Estudo\CSharp\DojoCSharp\UnitTestProject\bin\Debug\ConsoleApplication.pdb
+E:\Estudo\CSharp\DojoCSharp\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
